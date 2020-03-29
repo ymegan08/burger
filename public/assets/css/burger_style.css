@@ -1,0 +1,17 @@
+img{
+    width: 20%;
+}
+
+body{
+    background-color: #fad2f3;
+}
+
+#submit-button{
+    background-color: #a3074d;
+    border-color:  #a3074d;
+}
+
+.btn.btn-success.devour-button{
+    background-color: #a3074d;
+    border-color:  #a3074d;
+}
